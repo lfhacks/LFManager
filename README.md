@@ -1,2 +1,2 @@
 # LFManager
-Manager app for LeapFrog devices
+== THIS README IS A WORK IN PROGRESS ==
